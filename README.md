@@ -127,7 +127,7 @@ Common Options:
 - `--power`: Power level (0.0 to 1.0)
 - `--mod`: Modulation type (FM, AM, USB, LSB)
 - `--duration`: Transmission duration in seconds
-
+you can test directly : sudo ./pichirp 464210000 600000 10
 ## Warning
 
 Make sure you have the appropriate licenses and permissions before transmitting. Only transmit on frequencies you are authorized to use.
